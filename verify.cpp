@@ -1,6 +1,6 @@
 #include <cstdio>
 #include <cstdlib>
-#include "include/fpga_api.h"
+#include "fpga_api.h"
 
 // g++ -I./include main.cpp ./src/fpga_api.cpp -o run.exe && sudo ./run.exe
 
